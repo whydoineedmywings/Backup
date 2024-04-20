@@ -1,3 +1,4 @@
+```
 python backup.py --help
 
 usage: Backup [-h] --time TIME --src SRC [--dst DST]
@@ -11,3 +12,4 @@ options:
   --dst DST    The directory to which the copy will be made
 
 Created by whydoineedmywings?
+```
