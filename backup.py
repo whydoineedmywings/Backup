@@ -46,7 +46,7 @@ def main() -> None:
         "--dst",
         type=str,
         help="The directory to which the copy will be made",
-        required=False
+        required=True
     )
 
     argv: Namespace = parser.parse_args()
