@@ -1,5 +1,5 @@
 ```
-usage: Backup [-h] --time TIME --src SRC [--dst DST]
+usage: Backup [-h] --time TIME --src SRC --dst DST
 
 Create a copy of files
 
