@@ -1,6 +1,4 @@
 ```
-python backup.py --help
-
 usage: Backup [-h] --time TIME --src SRC [--dst DST]
 
 Create a copy of files
